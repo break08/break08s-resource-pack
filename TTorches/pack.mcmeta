@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Replace torches models with redstone torch-style",
+    "pack_format": 69
+  }
+}
